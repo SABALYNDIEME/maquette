@@ -1,0 +1,430 @@
+/* screen - desktop-6 */
+
+.desktop-6 {
+  align-items: flex-start;
+  background-color: #f2e3e3;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1476px;
+  overflow: hidden;
+  width: 1441px;
+}
+
+.desktop-6 .navbar {
+  align-items: flex-start;
+  background-color: var(--azure-radiance);
+  display: flex;
+  height: 180px;
+  left: 0;
+  min-width: 1440px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.desktop-6 .overlap-group7 {
+  height: 180px;
+  position: relative;
+  width: 1263px;
+}
+
+.desktop-6 .vector {
+  height: 33px;
+  left: 1227px;
+  position: absolute;
+  top: 25px;
+  width: 33px;
+}
+
+.desktop-6 .overlap-group6 {
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1263px;
+}
+
+.desktop-6 .navbar-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 130px;
+  left: 176px;
+  padding: 20px 32px;
+  position: absolute;
+  top: 91px;
+  width: fit-content;
+}
+
+.desktop-6 .navbar-link {
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-6 .navbar-link-1 {
+  cursor: pointer;
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-6 .logo_marmite-removebg-preview-1 {
+  cursor: pointer;
+  height: 180px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.desktop-6 .vector-1 {
+  height: 32px;
+  margin-left: 15px;
+  margin-top: 26px;
+  width: 26px;
+}
+
+.desktop-6 .icon-instagram {
+  height: 29px;
+  margin-left: 23px;
+  margin-top: 29px;
+  width: 29px;
+}
+
+.desktop-6 .vector-2 {
+  height: 33px;
+  margin-left: 19px;
+  margin-top: 25px;
+  width: 33px;
+}
+
+.desktop-6 .overlap-group8 {
+  height: 1218px;
+  margin-top: 134px;
+  position: relative;
+  width: 1462px;
+  z-index: 1;
+}
+
+.desktop-6 .jeune-femme-afro-ame {
+  height: 584px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 759px;
+}
+
+.desktop-6 .overlap-group3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645399455e1791f6ddb85048/releases/645399ac88342ed0307b5486/img/rectangle-17.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  left: 5px;
+  min-height: 676px;
+  padding: 31.5px 23.0px;
+  position: absolute;
+  top: 542px;
+  width: 1436px;
+}
+
+.desktop-6 .title {
+  letter-spacing: 4.32px;
+  line-height: 22.5px;
+  margin-left: 5.72px;
+  margin-top: 38px;
+  min-height: 23px;
+  text-align: center;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.desktop-6 .overlap-group4 {
+  height: 490px;
+  margin-right: 51.85px;
+  position: relative;
+  width: 1338px;
+}
+
+.desktop-6 .prenom {
+  left: 700px;
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 193px;
+}
+
+.desktop-6 .overlap-group2 {
+  height: 487px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1338px;
+}
+
+.desktop-6 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 91px;
+  height: 487px;
+  left: 1px;
+  min-width: 1337px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-6 .overlap-group {
+  height: 487px;
+  position: relative;
+  width: 639px;
+}
+
+.desktop-6 .rectangle-15 {
+  background-color: var(--azure-radiance);
+  height: 487px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 629px;
+}
+
+.desktop-6 .phone {
+  left: 101px;
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 234px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.desktop-6 .location_on_fill0_wg {
+  height: 46px;
+  left: 4px;
+  position: absolute;
+  top: 58px;
+  width: 45px;
+}
+
+.desktop-6 .thiaroye-sur-mer-villa-n266 {
+  left: 101px;
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 74px;
+  white-space: nowrap;
+  width: 426px;
+}
+
+.desktop-6 .deskphone_fill0_wght400_grad0_opsz48-1 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 136px;
+  width: 53px;
+}
+
+.desktop-6 .phone-1 {
+  left: 101px;
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  white-space: nowrap;
+  width: 190px;
+}
+
+.desktop-6 .whatsapp-1 {
+  height: 49px;
+  left: 11px;
+  position: absolute;
+  top: 219px;
+  width: 42px;
+}
+
+.desktop-6 .flex-col {
+  flex-direction: column;
+  min-height: 487px;
+  width: 599px;
+}
+
+.desktop-6 .nom {
+  align-self: center;
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  margin-left: 123.2px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.desktop-6 .flex-row {
+  gap: 40px;
+  height: 207px;
+  margin-top: 12px;
+  min-width: 599px;
+}
+
+.desktop-6 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 207px;
+  width: 281px;
+}
+
+.desktop-6 .rectangle-10 {
+  background-color: var(--alto);
+  height: 52px;
+  margin-left: 3.27px;
+  width: 278px;
+}
+
+.desktop-6 .telephone {
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  margin-top: 16px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.desktop-6 .message {
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  margin-left: 3.27px;
+  margin-top: 91px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.desktop-6 .rectangle-11 {
+  background-color: var(--alto);
+  height: 52px;
+  width: 278px;
+}
+
+.desktop-6 .rectangle-13 {
+  background-color: var(--alto);
+  height: 147px;
+  margin-left: 3.36px;
+  margin-top: 9px;
+  width: 596px;
+}
+
+.desktop-6 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 52px;
+  margin-left: 3.36px;
+  margin-top: 35px;
+  min-width: 278px;
+  padding: 13.5px 54.6px;
+}
+
+.desktop-6 .envoyer {
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 151px;
+}
+
+.desktop-6 .frame-2 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 440px;
+  width: 490px;
+}
+
+.desktop-6 .rectangle-13-1 {
+  background-color: var(--alto);
+  height: 50px;
+  left: 731px;
+  position: absolute;
+  top: 145px;
+  width: 589px;
+}
+
+.desktop-6 .flex-container {
+  flex-direction: column;
+  gap: 33px;
+  height: 258px;
+  left: 381px;
+  position: absolute;
+  top: 164px;
+  width: 1081px;
+}
+
+.desktop-6 .text0 {
+  letter-spacing: 4.32px;
+  line-height: 22.5px;
+  position: relative;
+  text-align: center;
+  width: 1081px;
+}
+
+.desktop-6 .text {
+  letter-spacing: 4.32px;
+  line-height: 22.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 1081px;
+}
+
+.desktop-6 .group-2-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2px;
+  min-width: 1440px;
+  z-index: 2;
+}
+
+.desktop-6 .overlap-group5 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645399455e1791f6ddb85048/releases/645399ac88342ed0307b5486/img/rectangle-5-3.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 118px;
+  justify-content: flex-end;
+  min-width: 1438px;
+  padding: 21.6px 390.5px;
+}
+
+.desktop-6 .copyright-2023-tous-droits-rservs {
+  letter-spacing: 3.24px;
+  line-height: 22.5px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 657px;
+}
+
+.desktop-6 .flex {
+  align-items: flex-start;
+  display: flex;
+}
